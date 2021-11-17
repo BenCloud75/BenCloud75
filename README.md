@@ -8,7 +8,7 @@ I am a tech lover and would love to help people taking back the control of their
 
 ### More about me :earth_africa:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/benjaminvallet/)](www.linkedin.com/in/benjaminvallet/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/harshkumarkhatri/)](www.linkedin.com/in/benjaminvallet/)
 
 <!--
 **BenCloud75/BenCloud75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
