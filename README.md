@@ -2,9 +2,9 @@
 
 I am a French API designer and Cloud lover based in Paris. 
 
-Since 2016, I have been working on IT project, from SAP implementations to API Design for the travel industry. When Covid hit the planet and significantly impacted my industry (travel), I started to self-train on Cloud solutions, and started understanding the huge potential of Cloud for the years to come. On the other hand, while getting everyday more aware about the cloud, I started to understand as well I had been spreading my personnal data here and there!! From Google, Youtube, Facebook and so on! 
+Since 2016, I have been working on various IT projects, from SAP implementations to API Design for the travel industry. When Covid hit the planet and significantly impacted my industry (travel), I started to self-train on Cloud solutions. I bought my first servers in 2020 and started creating my own self-hosted applications for my day to day activities. This experience made me understand the huge potential of the Cloud for the years to come.
 
-I am a tech lover and would love to help people taking back the control of their personal data. Also, any big company should accelerate their move to the cloud and adopt and API-centric vision for a better overall productivity. 
+I am a tech lover and would love to help people taking back the control of their personal data. Also, I believe any company should accelerate their move to the cloud and adopt and API-centric vision to increase their overall productivity. 
 
 ### More about me :earth_africa:
 
